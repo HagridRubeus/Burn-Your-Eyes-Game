@@ -1,6 +1,8 @@
 An Easy Game where you need to get your triangle the same color as the background.
 Be careful! Your triangle and background have the speed of color  changing!
 
+Keys: WASD or Arrow keys
+
 What? HOW?
 
 Try to understand the logic.
