@@ -78,7 +78,7 @@ int main() {
         Color TriangleColor = {Red, Gre, Blu, 100};
         Color BackColor = {Red2, Gre2, Blu2, 100};
 
-        if (!(Red == Red2  && Gre == Gre2 && Blu == Blu2 && Alp == Alp2))
+        if (!(Red == Red2  && Gre == Gre2 && Blu == Blu2 && Alp == Alp2) || !((Red == Red2  && Gre == Gre2 && Blu == Blu2 && Alp == Alp2)))
         {
             if (IsKeyPressed(KEY_UP) || IsKeyPressed(KEY_W))
             {
